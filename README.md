@@ -18,10 +18,10 @@ npm run serve
 
 ```
 
-
+*Viwe On Pc*
 ![vue-weather (1)](https://user-images.githubusercontent.com/75854041/119399098-24714a80-bce1-11eb-90d0-1612f4dffc05.png)
 
-
+*Viwe On Moblie*
 
 
 
