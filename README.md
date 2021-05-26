@@ -7,16 +7,26 @@ This is weather app
 
 build with VueJs-3
 
-run app 
-```Node js
+## Project setup
+```
 npm install
-
-
 ```
-```Node js
-npm run serve 
 
+### Compiles and hot-reloads for development
 ```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
 
 *Viwe On Pc*
 ![vue-weather (1)](https://user-images.githubusercontent.com/75854041/119399098-24714a80-bce1-11eb-90d0-1612f4dffc05.png)
